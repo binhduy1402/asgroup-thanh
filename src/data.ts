@@ -10,7 +10,7 @@ export const BRAND_INFO = {
   tagline: "Heritage & Grace",
   hotline: "0942 181 822 - Ms. Thanh",
   email: "sales6@asgroup.com.vn",
-  address: "Binh Trung District, Ho Chi Minh City, Vietnam",
+  address: "Binh Trung Ward, Ho Chi Minh City, Vietnam",
 };
 
 export const COMPANY_STATS = [
