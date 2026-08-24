@@ -93,7 +93,7 @@ export default function Hero({ onDiscoverClick, onConsultClick }: HeroProps) {
                   href="tel:0942181822"
                   className="mt-0.5 text-[1.1rem] font-bold leading-none text-[#2d1f3d] hover:text-[#c45b2f] transition-colors"
                 >
-                  0942 181 822
+                  0942 181 822 - Ms. Thanh
                 </a>
               </div>
               <a
@@ -239,7 +239,7 @@ export default function Hero({ onDiscoverClick, onConsultClick }: HeroProps) {
                       href="tel:0942181822"
                       className="text-[1.05rem] font-bold leading-none text-[#2d1f3d] hover:text-[#c45b2f] transition-colors"
                     >
-                      0942 181 822
+                      0942 181 822 - Ms. Thanh
                     </a>
                   </div>
                   <a
