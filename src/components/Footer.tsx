@@ -119,7 +119,7 @@ export default function Footer() {
                 </span>
                 <div>
                   <p className="mb-0.5 uppercase tracking-wider text-white/40">Email</p>
-                  <p className="text-white/80">tina@asgroup.vn</p>
+                  <p className="text-white/80">sales6@asgroup.com.vn</p>
                 </div>
               </a>
 
@@ -133,13 +133,13 @@ export default function Footer() {
                 </div>
               </a>
 
-              <a href="tel:0903731769" className="flex items-start gap-2.5">
+              <a href="tel:0942181822" className="flex items-start gap-2.5">
                 <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-white/5">
                   <Phone className="h-3 w-3 text-muted-gold" />
                 </span>
                 <div>
                   <p className="mb-0.5 uppercase tracking-wider text-white/40">Hotline</p>
-                  <p className="text-white/80">0903 731 769</p>
+                  <p className="text-white/80">0942 181 822</p>
                 </div>
               </a>
 
